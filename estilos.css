@@ -4,6 +4,14 @@ body {
 	background-color: #dddddd;
 }
 
+header#cabecalho img#icone {
+	position: absolute;
+	left: 250px;
+	top: 10px;
+	size: 50px;
+
+}
+
 div#interface {
 	background-color: #ffffff;
 	width: 1000px;
@@ -22,7 +30,7 @@ nav#menu ul {
 	/*text-transform: uppercase; */
 	position: absolute;
 	top: 0px;
-	left: 400px;
+	left: 370px;
 }
 
 nav#menu li {
