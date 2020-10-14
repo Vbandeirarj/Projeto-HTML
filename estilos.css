@@ -109,3 +109,17 @@ transition: 1s;
 figure.foto_legenda:hover figcaption {
 	opacity: 1;
 }
+
+h3 {
+	margin-bottom: -20px;
+	margin-top: 50px;
+}
+
+h4 {
+	margin-bottom: -20px;
+	margin-top: 50px;
+}
+img#prevencao {
+	margin-left: 140px;
+	border: 6px  solid;
+}
