@@ -7,14 +7,16 @@ body {
 header#cabecalho img#icone {
 	position: absolute;
 	left: 250px;
-	top: 10px;
+	top: -1px;
 	size: 50px;
 
 }
 
 header#cabecalho {
-	border-bottom: 2px #606060 solid;
+	border-bottom: 6px #606060 solid;
+	opacity: 80%;
 	height: 175px;
+	background-color: #8269a0;
 
 
 }
