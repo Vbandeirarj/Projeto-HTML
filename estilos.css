@@ -83,6 +83,12 @@ div#texto {
 margin: 50px 30px 0px 70px;
 }
 
+div#texto2 {
+	margin: 30px -10px 0px 70px;
+	padding: 10px;
+	
+	}
+
 figure.foto_legenda {
 position: relative;
 /*border: 8px solid white;*/
